@@ -62,6 +62,7 @@ Use the following stack for a new project unless the existing project or an expl
 * Tailwind CSS
 * shadcn/ui where appropriate
 * Zod for client-side form validation and shared schemas where appropriate
+* Don't use dummy or mock data, use real data from database, seed it if needed.
 
 ### Backend
 
